@@ -23,6 +23,10 @@
 #include <math.h>
 #include <stddef.h>
 
+/**
+ * @struct quadratic_polynomial quadratic.h "include/quadratic.h"
+ * @brief Quadratic polynomial class.
+ */
 struct quadratic_polynomial
 {
     double a;

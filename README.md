@@ -104,3 +104,20 @@ or
 ```bash
 ./quadratic_formula --help
 ```
+
+## Generating the documentation
+
+First install `doxygen`
+
+```bash
+sudo apt install doxygen
+```
+
+Now from the repo directory, run
+
+```bash
+doxygen .doxygen_cfg
+```
+
+The documentation is not in the `./doc` directory. Open `./doc/html/index.html`
+with a browser to peruse the docs.
