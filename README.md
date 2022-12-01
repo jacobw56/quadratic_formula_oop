@@ -2,6 +2,8 @@
 
 An even more overkill version of the
 [quadratic root finder](https://github.com/jacobw56/quadratic_formula).
+There is also a [C++ version](https://github.com/jacobw56/quadratic_formula_cpp)
+of the same program.
 
 You will note that I include [Doxygen](https://doxygen.nl/)-style
 documentation and it is tooled for
